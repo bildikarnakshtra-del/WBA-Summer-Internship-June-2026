@@ -1,0 +1,116 @@
+Commands Used - Linux Task 02
+
+Part A: Understanding Users
+
+bash
+whoami
+id
+cat /etc/passwd
+
+Purpose
+`whoami` – Displays the currently logged-in username.
+`id` – Displays user ID (UID), group ID (GID), and group memberships.
+`cat /etc/passwd` – Displays information about user accounts stored in the system.
+
+Part B: Users and Groups
+
+bash
+sudo groupadd interns
+sudo groupadd cyberteam
+
+Purpose
+`groupadd` – Creates a new group.
+
+bash
+sudo useradd -m student1
+sudo useradd -m student2
+sudo useradd -m student3
+
+Purpose
+`useradd -m` – Creates a new user account and home directory.
+
+bash
+sudo usermod -aG interns student1
+sudo usermod -aG interns student2
+sudo usermod -aG cyberteam student3
+
+Purpose
+`usermod -aG` – Adds an existing user to a group.
+
+bash
+id student1
+id student2
+id student3
+
+Purpose
+Verifies user information and group membership.
+
+bash
+getent group interns
+getent group cyberteam
+
+Purpose
+Displays information about groups and their members.
+
+Part C: File Ownership
+
+bash
+mkdir CyberSecurity_Project
+cd CyberSecurity_Project
+
+Purpose
+
+`mkdir` – Creates a new directory.
+`cd` – Changes the current working directory.
+
+bash
+touch report.txt
+touch notes.txt
+touch credentials.txt
+
+Purpose
+
+`touch` – Creates empty files.
+
+bash
+ls -l
+
+Purpose
+Displays files with detailed ownership and permission information.
+
+bash
+sudo chown student1 report.txt
+
+Purpose
+`chown` – Changes the owner of a file.
+
+Part D: File Permissions
+bash
+touch security_policy.txt
+
+Purpose
+Creates an empty file named security_policy.txt.
+
+bash
+ls -l security_policy.txt
+
+Purpose
+Displays the current permissions of the file.
+
+bash
+chmod 444 security_policy.txt
+
+Purpose
+Grants read-only permission to everyone.
+
+bash
+chmod 664 security_policy.txt
+
+Purpose
+Grants read and write permissions to owner and group, and read-only permission to others.
+bash
+
+chmod 777 security_policy.txt
+
+Purpose
+Grants full read, write, and execute permissions to everyone.

@@ -1,0 +1,43 @@
+Linux Task 03 - Commands Used
+
+PART A - Process Monitoring
+ps
+ps aux
+top
+htop
+
+PART B - Process Management
+sleep 300
+ps aux | grep sleep
+kill 4762
+kill -9 4762
+
+PART C - System Monitoring
+free -h
+df -h
+uptime
+uname -a
+
+PART D - Service Monitoring
+systemctl status ssh
+systemctl status NetworkManager
+
+PART E - Shell Scripting
+nano system_report.sh
+chmod +x system_report.sh
+./system_report.sh
+./system_report.sh > system_output.txt
+
+PART F - Security Monitoring
+netstat
+ss
+who
+w
+last
+
+PART G - Mini SOC Activity
+top
+htop
+ps aux
+ss
+netstat
