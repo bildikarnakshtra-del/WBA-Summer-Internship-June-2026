@@ -1,0 +1,11 @@
+
+Pinging google.com [2404:6800:4000:1017::8b] with 32 bytes of data:
+Reply from 2404:6800:4000:1017::8b: time=125ms 
+Reply from 2404:6800:4000:1017::8b: time=62ms 
+Reply from 2404:6800:4000:1017::8b: time=179ms 
+Reply from 2404:6800:4000:1017::8b: time=86ms 
+
+Ping statistics for 2404:6800:4000:1017::8b:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 62ms, Maximum = 179ms, Average = 113ms

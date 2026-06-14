@@ -1,0 +1,49 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-SA2C9RB8
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 72-08-94-E0-FA-D1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 76-08-94-E0-FA-D1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter
+   Physical Address. . . . . . . . . : 70-08-94-E0-FA-D1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2402:8100:2d4e:697a:93d2:7099:ad0c:9e4e(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2402:8100:2d4e:697a:414:8ccf:9f3b:8267(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::9f4b:e018:9ac7:343%18(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.173.183(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 07 June 2026 21:15:46
+   Lease Expires . . . . . . . . . . : 07 June 2026 23:16:03
+   Default Gateway . . . . . . . . . : fe80::4014:9ff:fe27:6ef8%18
+                                       192.168.173.75
+   DHCP Server . . . . . . . . . . . : 192.168.173.75
+   DHCPv6 IAID . . . . . . . . . . . : 292554900
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2F-38-20-FD-00-00-10-02-43-80
+   DNS Servers . . . . . . . . . . . : 192.168.173.75
+                                       2402:8100:2d4e:697a::25
+   NetBIOS over Tcpip. . . . . . . . : Enabled

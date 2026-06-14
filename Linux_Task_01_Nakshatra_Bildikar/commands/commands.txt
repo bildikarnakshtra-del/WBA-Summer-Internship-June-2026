@@ -1,0 +1,28 @@
+commands 
+
+Part B Commands
+
+pwd - Displayed current working directory
+ls - Listed files and directories
+ls -la - Listed all files including hidden files
+whoami - Displayed current username
+hostname - Displayed system hostname
+
+Part D Commands
+
+touch notes.txt
+touch commands.txt
+touch report.txt
+cp notes.txt Networking/
+mv commands.txt Linux/
+mv report.txt final_report.txt
+rm final_report.txt
+
+Part E Commands
+
+uname -a
+hostname
+whoami
+date
+uptime
+pwd
