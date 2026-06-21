@@ -1,0 +1,56 @@
+Part D – Threat Identification
+
+1. Insider Threat
+
+Description
+Threat caused by employees or trusted individuals.
+
+Impact
+Data theft and misuse.
+
+Prevention
+Access controls and monitoring.
+
+2. Malware
+
+Description
+Malicious software that damages systems.
+
+Impact
+Data loss and system compromise.
+
+Prevention
+Antivirus and updates.
+
+3. Phishing
+
+Description
+Fraudulent attempts to steal information.
+
+Impact
+Credential theft.
+
+Prevention
+User awareness and MFA.
+
+4. Weak Passwords
+
+Description
+Simple passwords that are easy to guess.
+
+Impact
+Unauthorized account access.
+
+Prevention
+Strong password policies.
+
+5. Unpatched Systems
+
+Description
+Systems missing security updates.
+
+Impact
+Exploitation of vulnerabilities.
+
+Prevention
+Regular patch management.

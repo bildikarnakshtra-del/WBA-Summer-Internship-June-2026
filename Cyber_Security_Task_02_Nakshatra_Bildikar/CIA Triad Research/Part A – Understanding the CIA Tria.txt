@@ -1,0 +1,44 @@
+Part A – Understanding the CIA Triad
+
+1. Confidentiality
+
+Definition
+Confidentiality means ensuring that information is accessible only to authorized people.
+
+Importance
+Protects sensitive information from unauthorized access.
+
+Example
+Only students and faculty can access college examination records.
+
+2. Integrity
+
+Definition
+Integrity means ensuring data remains accurate and unaltered.
+
+Importance
+Prevents unauthorized modification of information.
+
+Example
+Student marks should not be changed by unauthorized users.
+
+3. Availability
+
+Definition
+Availability means information and systems are accessible when needed.
+
+Importance
+Ensures services remain operational.
+
+Example
+College website should be accessible during admission periods.
+
+
+Principle	Definition	              Importance	                             Example
+
+Confidentiality	Protect data from 
+                unauthorized access	      Privacy protection	                  Student records
+
+Integrity	Maintain accuracy of data     Trustworthy information	                  Examination results
+
+Availability	Ensure access when needed     Continuous operations	                  College website

@@ -1,0 +1,25 @@
+Part F – Mini Security Consultant Activity
+
+Cybersecurity Improvement Report for College
+
+Top 5 Risks
+
+Data breaches involving student records.
+Phishing attacks targeting staff and students.
+Malware infections.
+Weak password practices.
+Unpatched software vulnerabilities.
+
+Top 5 Recommendations
+
+Implement Multi-Factor Authentication.
+Enforce strong password policies.
+Conduct regular security awareness training.
+Keep all systems updated.
+Perform regular backups and security audits.
+Expected Benefits
+Improved protection of sensitive information.
+Reduced risk of cyber attacks.
+Faster recovery from incidents.
+Increased trust among students and staff.
+Better compliance with security standards.

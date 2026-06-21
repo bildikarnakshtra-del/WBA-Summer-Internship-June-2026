@@ -1,0 +1,7 @@
+Part A - Device Security Assesment 
+
+Operating System : Windows 11 
+OS Version : 25H2
+System updated : One update pending 
+Antivirus Installed : Yes 
+Firewall Enabled : Yes 

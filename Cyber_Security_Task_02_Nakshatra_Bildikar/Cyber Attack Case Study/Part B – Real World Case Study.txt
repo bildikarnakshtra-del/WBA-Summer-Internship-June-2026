@@ -1,0 +1,21 @@
+Part B – Real World Case Study
+
+WannaCry Ransomware Attack (2017)
+
+What Happened?
+WannaCry was a ransomware attack that infected over 200,000 computers across 150 countries. It encrypted files and demanded payment in Bitcoin.
+
+CIA Triad Affected
+Availability (majorly)
+Integrity (partially)
+
+Impact
+Systems became unusable.
+Hospitals, businesses, and government organizations were affected.
+Millions of dollars in damages.
+
+Prevention
+Regular system updates.
+Security patches.
+Backups.
+Antivirus software.

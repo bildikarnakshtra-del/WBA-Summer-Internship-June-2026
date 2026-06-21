@@ -1,0 +1,6 @@
+Part C 
+
+Account	   MFA Enabled	Strong Password	Recovery Email
+Google	      Yes	     Yes	     Yes
+LinkedIn      Yes	     Yes             Yes
+GitHub        No	     Yes	     Yes
